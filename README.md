@@ -1,6 +1,8 @@
 # word-generator
 
-Generate words using markov chains
+Generate words using markov chains.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/umcconnell/word-generator/master?filepath=src%2Fword-generator.ipynb)
 
 ## Table of Contents
 
